@@ -6,7 +6,12 @@ The link to access the site is http://aajeevika.undp.org.in/
 Access the documents related to Aajeevika via navigating tp the following links:
 
   [User Manuals] : (https://github.com/UNDPIndia/Aajeevika/tree/main/All%20User%20Manuals)
+  
   [Technnical Manuals] : (https://github.com/UNDPIndia/Aajeevika/tree/main/Technical%20Manuals)
+  
   [Source Code] : (https://github.com/UNDPIndia/Aajeevika/tree/main/Source%20Code)
+  
   [DPG criteria] : (https://github.com/UNDPIndia/Aajeevika/blob/main/9%20criteria%20for%20DPG.docx)
+  
   [Infrastructure Recommendation] : (https://github.com/UNDPIndia/Aajeevika/tree/main/Infrastructure)
+  
