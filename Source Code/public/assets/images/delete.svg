@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="delete" transform="translate(-82 416)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(82 -416)" fill="#fff" stroke="#c5c5c5" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <path id="Icon_material-delete-forever" data-name="Icon material-delete-forever" d="M8.2,15.773a1.413,1.413,0,0,0,1.409,1.409H15.25a1.413,1.413,0,0,0,1.409-1.409V7.318H8.2Zm1.733-5.016.993-.993,1.5,1.494,1.494-1.494.993.993L13.425,12.25l1.494,1.494-.993.993-1.494-1.494-1.494,1.494-.993-.993,1.494-1.494ZM14.9,5.2l-.7-.7H10.671l-.7.7H7.5V6.614h9.864V5.2Z" transform="translate(79.568 -416.841)" fill="#fe6000"/>
+  </g>
+</svg>
