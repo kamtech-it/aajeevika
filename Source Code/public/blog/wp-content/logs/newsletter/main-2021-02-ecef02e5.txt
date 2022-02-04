@@ -1,0 +1,4 @@
+18-02-2021 12:34:43 - ERROR - v: 7.0.3 - m: 4.5 MB, u: 1 - Could not calculate resized image dimensions (error_getting_dimensions) - /var/www/undp/public/blog/wp-content/uploads/2021/02/Earthenware_img.jpg
+18-02-2021 12:34:43 - ERROR - v: 7.0.3 - m: 4.5 MB, u: 1 - File: /var/www/undp/public/blog/wp-content/uploads/2021/02/Earthenware_img.jpg
+18-02-2021 12:34:46 - ERROR - v: 7.0.3 - m: 4.4 MB, u: 1 - Could not calculate resized image dimensions (error_getting_dimensions) - /var/www/undp/public/blog/wp-content/uploads/2021/02/Earthenware_img.jpg
+18-02-2021 12:34:46 - ERROR - v: 7.0.3 - m: 4.4 MB, u: 1 - File: /var/www/undp/public/blog/wp-content/uploads/2021/02/Earthenware_img.jpg

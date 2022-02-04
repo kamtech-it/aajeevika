@@ -1,0 +1,4 @@
+18-02-2021 12:09:04 - ERROR - v: 7.0.3 - m: 8.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Called RSET without being connected
+18-02-2021 12:10:04 - ERROR - v: 7.0.3 - m: 8.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Called RSET without being connected
+18-02-2021 12:11:08 - ERROR - v: 7.0.3 - m: 8.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Called RSET without being connected
+18-02-2021 12:12:10 - ERROR - v: 7.0.3 - m: 8.3 MB, u: 1 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP server error: Called RSET without being connected
