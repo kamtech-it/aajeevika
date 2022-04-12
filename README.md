@@ -16,5 +16,4 @@ Please access the documents related to Aajeevika via navigating to the following
   [Infrastructure Recommendation] :  
   (https://github.com/undpindia/aajeevika/blob/main/docs/infrastructure/Infrastructure%20Recommendation.docx)
   
-  [Source Code] : (https://github.com/undpindia/aajeevika/tree/main/src)
-  
+   
