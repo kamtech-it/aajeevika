@@ -15,5 +15,5 @@ Please access the documents related to Aajeevika via navigating to the following
   
   [Infrastructure Recommendation] : (https://github.com/UNDPIndia/Aajeevika/tree/main/Infrastructure)
   
-  [Source Code] : (https://github.com/UNDPIndia/Aajeevika/tree/main/Source%20Code)
+  [Source Code] : (https://github.com/undpindia/aajeevika/tree/main/src)
   
